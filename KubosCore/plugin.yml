@@ -1,0 +1,10 @@
+name: KubosCore
+main: com.UntouchedOdin0.KubosCore.Main
+version: 1.1.1
+authors: [UntouchedOdin0]
+description: The Core plugin of Kubos!
+commands:
+   cookie:
+         description: Free cookies!
+   staff:
+         description: Staff List!
