@@ -52,6 +52,6 @@ public class Menu implements Listener{
     	
     	if (e.getCurrentItem().getItemMeta().getDisplayName().equalsIgnoreCase("No"));
     	
-    	e.getWhoClicked().sendMessage(ChatColor.RED + "Please accept the rules!");
+    	e.getWhoClicked().sendMessage(ChatColor.RED + "I'm sorry, you can't join!");
     	}
     }
